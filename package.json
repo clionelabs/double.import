@@ -1,0 +1,14 @@
+{
+  "name": "double.import",
+  "version": "1.0.0",
+  "description": "Import Double dashboard stuff to mixpanel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^2.0.45"
+  }
+}
